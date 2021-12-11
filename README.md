@@ -20,6 +20,10 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/joaofilippe)
 
+I started programming in 2021, when I decided to speak in a new way: through codes. On this journey, I trusted Labenu to help me become a web developer.
+
+I started with JavaScript, CSS, HTML and ReactJS, understanding how clarity in your application is important for the user to have the best browsing experience. The next step was to jump into BackEnd, with NodeJS and TypeScript. I loved knowing how to build clean, functional and organized code. 
+
 
 ## Where you can find me:
 
