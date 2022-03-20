@@ -10,7 +10,7 @@
 
 🏡 I’m from Brazil.
 
-📚 I’m currently learning everything, but I can make some magics with Python, JavaScript and TypeScript... 🪄
+📚 I’m currently learning everything, but I can make some magics with Golang, Python, JavaScript and TypeScript... 🪄
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
