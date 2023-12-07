@@ -18,14 +18,17 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/joaofilippe)
 
-I started programming in 2021, when I decided to speak in a new way: through codes. On this journey, I chose Labenu to guide me in the path to become a web debeloper.
+I have been a Back-End Web Developer since 2021, with experience in Golang (Go), .NET and Java. I managed to find in the Golang, C#, Java and TypeScript languages the perfect combination of security, flexibility and the possibility of a more efficient design for the applications developed.
 
-I started with JavaScript, CSS, HTML and ReactJS, wich helped me understand that clarity (maybe simplicity or an intuitive application) in your application is important for the user to have the best browsing experience. The next step was to jump into BackEnd, with NodeJS and TypeScript. I loved knowing how to build clean, functional and organized code.
+I also work with containerization, in Docker, due to the advantage of creating cohesive and scalable development environments. Furthermore, I like to use Cloud Computing (AWS) facilities as it is a quick, safe and reliable way to provide a solution.
 
-I'm building some repos to you checkout and see what I am able to do.
+One of my fundamental principles is the appreciation of clean code. I believe that clarity and organization in development not only elevates the aesthetics of the code, but also plays a crucial role in the maintenance and sustainable evolution of any project.
 
+I am also a person who values clear communication between the team, collaborative and detail-oriented. I believe that effective communication is fundamental to the success of any project, and my work style is based on collaboration and attention to detail.
 
-Bye!!!
+Furthermore, I have solid experience in agile development processes, recognizing the importance of flexibility and continuous delivery.
+
+I am continually looking for challenges that boost my professional growth, and I am excited to contribute in a meaningful way to the success of your project.
 
 
 ## Where you can find me:
