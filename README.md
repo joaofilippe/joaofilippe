@@ -10,7 +10,7 @@
 
 🏡 I’m from Brazil.
 
-📚 I’m currently learning everything, but I can make some magics with Golang, Python, JavaScript and TypeScript... 🪄
+📚 I’m currently learning everything, but I can make some magics with Golang, Java  and TypeScript... 🪄
 
  
 
